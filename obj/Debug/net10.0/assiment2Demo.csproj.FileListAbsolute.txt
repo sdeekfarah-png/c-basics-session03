@@ -1,0 +1,15 @@
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\bin\Debug\net10.0\assiment2Demo.exe
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\bin\Debug\net10.0\assiment2Demo.deps.json
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\bin\Debug\net10.0\assiment2Demo.runtimeconfig.json
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\bin\Debug\net10.0\assiment2Demo.dll
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\bin\Debug\net10.0\assiment2Demo.pdb
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.AssemblyInfoInputs.cache
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.AssemblyInfo.cs
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.csproj.CoreCompileInputs.cache
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.dll
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\refint\assiment2Demo.dll
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.pdb
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment2Demo.genruntimeconfig.cache
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\ref\assiment2Demo.dll
+C:\Users\Farah\Desktop\assiment 2\assiment2Demo\assiment2Demo\obj\Debug\net10.0\assiment.9305B8BA.Up2Date
